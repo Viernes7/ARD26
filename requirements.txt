@@ -1,0 +1,3 @@
+pip install scapy>=2.5.0
+pip install dpkt>1.9.8
+pip install pyshark>0.6
