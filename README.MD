@@ -1,4 +1,4 @@
-# ARD26 - Analizador de Red Forense 
+# ARF26 - Analizador de Red Forense 
 
 Herramienta desarrollada en **Python** para el análisis y monitoreo de tráfico de red, orientada **análisis forense**, **seguridad informática**.
 
@@ -204,6 +204,6 @@ https://www.wireshark.org/download.html
 # Ejecución
 
 ```bash
-python ARD26.py
+python ARF26.py
 ```
 
