@@ -157,7 +157,7 @@ Python 3.11 o superior.
 ## Instalar dependencias
 
 ```bash
-git clone https://github.com/LeonardoCoder/ARD26
+git clone https://github.com/Viernes7/ARD26
 cd ARD26
 pip install -r requirements.txt
 
